@@ -1,0 +1,49 @@
+body{
+    justify-content: center;
+    background: #EDF2F4;
+    height: 100%;
+}
+
+ #footer-nav{
+    max-width: 420px;
+    z-index: 2;
+ }
+
+#main-nav{
+    background: #2B2D42;
+    font-family: 'Teko';
+}
+
+#page-label{
+    border: 1px solid black;
+    max-width: 150px;
+    margin-left: 0;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    background-color: #EDEEC9;
+    color: #2B2D42;
+}
+
+.navbar-brand{
+    color: #8D99AE;
+    font-size: 28px;
+}
+
+.nav-link{
+    color: #8D99AE;
+    font-size: 20px;
+}
+
+#main-content-row{
+    min-height: 100%;
+    height: 100%;
+}
+
+.nav-theme{
+    min-height: 300px;
+    z-index: 1;
+    text-align: center;
+    text-justify: center;
+    justify-content: center;
+    align-content: center;
+}

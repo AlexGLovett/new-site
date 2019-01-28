@@ -1,0 +1,12 @@
+$font-family-headers: 'Teko', sans-serif;
+$font-family-style: 'Satisfy', cursive;
+$font-family-text: 'Oswald', sans-serif;
+$font-color: #333A56
+$background-color-main: #F7F5E6
+$background-color-focus: #52658F
+$background-color-accent: #E8E8E8
+
+body {
+	font: 100% $font-family-headers;
+	color: $background-color-main;
+}
